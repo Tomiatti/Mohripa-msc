@@ -1,0 +1,8 @@
+2019-09-05 11:26:43,592 DEBUG [main] - Log4J.main 10 - Sample debug message
+2019-09-05 11:26:48,486  INFO [main] - Log4J.main 11 - Sample info message
+2019-09-05 11:26:49,023 ERROR [main] - Log4J.main 12 - Sample error message
+2019-09-05 11:26:49,581 FATAL [main] - Log4J.main 13 - Sample fatal message
+2019-09-05 14:31:59,844 DEBUG [main] - Log4J.main 10 - Sample debug message DOIDEIRA
+2019-09-05 14:32:00,473  INFO [main] - Log4J.main 11 - Sample info message
+2019-09-05 14:32:00,638 ERROR [main] - Log4J.main 12 - Sample error message
+2019-09-05 14:32:01,005 FATAL [main] - Log4J.main 13 - Sample fatal message

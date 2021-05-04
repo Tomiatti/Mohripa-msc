@@ -1,0 +1,22 @@
+
+drop database ResourcesCluster;
+
+truncate table Resources_tb;
+
+Select * from Resources_tb;
+select * from Resources_tb where Hostname = "cos01" limit 4;
+
+Select * from Resources_tb WHERE VM_Status="shutdown";
+
+Select * from Resources_tb WHERE Provider_name="halley" and VM_Status="shutdown";
+
+Select * from Resources_tb WHERE Provider_name="andromeda" and VM_Status="shutdown";
+
+Select * from Resources_tb WHERE Hostname="cos01" and VM_Status="shutdown";
+
+select VM_Host from Resources_tb where Hostname = "cos01" AND VM_Status = "shutdown";
+
+UPDATE Resources_tb set VM_Status = "shutdown" where VM_Host = "COS01-VM2" ;
+
+
+select VM_Host,Serverport from Resources_tb;

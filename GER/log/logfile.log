@@ -1,0 +1,4 @@
+2019-07-31 10:05:02,901 DEBUG [main] - Log4J.main 10 - Sample debug message
+2019-07-31 10:05:12,550  INFO [main] - Log4J.main 11 - Sample info message
+2019-07-31 10:05:12,749 ERROR [main] - Log4J.main 12 - Sample error message
+2019-07-31 10:05:12,850 FATAL [main] - Log4J.main 13 - Sample fatal message

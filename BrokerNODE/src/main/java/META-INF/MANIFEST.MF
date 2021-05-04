@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Main-Class: Webservice.MainApplication
+Class-Path: jul-to-slf4j-1.7.29.jar log4j-api-2.12.1.jar jboss-logging-3
+ .4.1.Final.jar commons-codec-1.13.jar bcpkix-jdk15on-1.60.jar HdrHistog
+ ram-2.1.9.jar rxnetty-0.4.9.jar spring-cloud-starter-netflix-archaius-2
+ .1.3.RELEASE.jar commons-collections-3.2.2.jar commons-lang-2.6.jar log
+ back-classic-1.2.3.jar spring-boot-starter-tomcat-2.2.1.RELEASE.jar rxn
+ etty-contexts-0.4.9.jar spring-web-5.2.1.RELEASE.jar spring-boot-2.2.1.
+ RELEASE.jar spring-security-rsa-1.0.7.RELEASE.jar tomcat-embed-websocke
+ t-9.0.27.jar logback-core-1.2.3.jar jersey-client-1.19.1.jar jersey-cor
+ e-1.19.1.jar jakarta.validation-api-2.0.1.jar mysql-connector-java-8.0.
+ 15.jar spring-core-5.2.1.RELEASE.jar ribbon-core-2.3.0.jar spring-cloud
+ -commons-2.1.3.RELEASE.jar jackson-annotations-2.10.0.jar rxjava-1.3.8.
+ jar jsch-0.1.55.jar spring-cloud-netflix-ribbon-2.1.3.RELEASE.jar ribbo
+ n-loadbalancer-2.3.0.jar jackson-datatype-jdk8-2.10.0.jar spring-cloud-
+ netflix-archaius-2.1.3.RELEASE.jar spring-webmvc-5.2.1.RELEASE.jar netf
+ lix-statistics-0.1.1.jar bcprov-jdk15on-1.60.jar spring-aop-5.2.1.RELEA
+ SE.jar ribbon-httpclient-2.3.0.jar spring-cloud-context-2.1.3.RELEASE.j
+ ar jersey-apache-client4-1.19.1.jar javax.inject-1.jar tomcat-embed-cor
+ e-9.0.27.jar jackson-datatype-jsr310-2.10.0.jar httpcore-4.4.12.jar jac
+ kson-core-2.10.0.jar rxnetty-servo-0.4.9.jar spring-expression-5.2.1.RE
+ LEASE.jar spring-cloud-starter-2.1.3.RELEASE.jar spring-boot-autoconfig
+ ure-2.2.1.RELEASE.jar httpclient-4.5.10.jar jakarta.annotation-api-1.3.
+ 5.jar jsr305-3.0.1.jar jackson-module-parameter-names-2.10.0.jar jsr311
+ -api-1.1.1.jar log4j-to-slf4j-2.12.1.jar spring-beans-5.2.1.RELEASE.jar
+  jackson-databind-2.10.0.jar servo-core-0.12.21.jar spring-context-5.2.
+ 1.RELEASE.jar netflix-commons-util-0.3.0.jar guava-16.0.1.jar archaius-
+ core-0.7.6.jar slf4j-api-1.7.29.jar classmate-1.5.1.jar spring-boot-sta
+ rter-json-2.2.1.RELEASE.jar ribbon-2.3.0.jar hibernate-validator-6.0.18
+ .Final.jar tomcat-embed-el-9.0.27.jar spring-boot-starter-web-2.2.1.REL
+ EASE.jar spring-jcl-5.2.1.RELEASE.jar snakeyaml-1.25.jar hystrix-core-1
+ .5.18.jar commons-configuration-1.8.jar spring-security-crypto-5.2.1.RE
+ LEASE.jar log4j-1.2.17.jar spring-boot-starter-logging-2.2.1.RELEASE.ja
+ r ribbon-transport-2.3.0.jar spring-boot-starter-validation-2.2.1.RELEA
+ SE.jar spring-cloud-starter-netflix-ribbon-2.1.3.RELEASE.jar spring-boo
+ t-starter-2.2.1.RELEASE.jar
+

@@ -1,0 +1,410 @@
+2019-04-19 19:14:07,798  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM3 is being shutdown
+2019-04-19 19:14:07,839  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 is being shutdown
+2019-04-19 19:14:07,836  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 is being shutdown
+2019-04-19 19:14:07,830  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 is being shutdown
+2019-04-19 19:14:07,828  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 is being shutdown
+2019-04-19 19:14:07,817  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 is being shutdown
+2019-04-19 19:14:07,806  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 is being shutdown
+2019-04-19 19:14:07,805  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 is being shutdown
+2019-04-19 19:14:08,356  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,346  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,330  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,316  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,308  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,298  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,280  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:14:08,370  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,338  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 started
+2019-04-19 19:17:29,339  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 started
+2019-04-19 19:17:29,338  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 started
+2019-04-19 19:17:29,338  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 started
+2019-04-19 19:17:29,338  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 started
+2019-04-19 19:17:29,338  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 started
+2019-04-19 19:17:29,338  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM3 started
+2019-04-19 19:17:29,338  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 started
+2019-04-19 19:17:29,881  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,875  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,869  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,863  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,514  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,505  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,496  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:17:29,890  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:38,979  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM3 is being shutdown
+2019-04-19 19:24:39,455  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 is being shutdown
+2019-04-19 19:24:38,979  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 is being shutdown
+2019-04-19 19:24:38,979  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 is being shutdown
+2019-04-19 19:24:39,490  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:39,483  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 is being shutdown
+2019-04-19 19:24:39,482  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:39,472  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:39,530  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:39,498  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:40,123  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 is being shutdown
+2019-04-19 19:24:40,128  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 is being shutdown
+2019-04-19 19:24:40,131  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:40,139  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:24:40,432  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 is being shutdown
+2019-04-19 19:24:40,439  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,588  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM3 started
+2019-04-19 19:28:14,611  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 started
+2019-04-19 19:28:14,588  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 started
+2019-04-19 19:28:14,588  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 started
+2019-04-19 19:28:14,588  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 started
+2019-04-19 19:28:14,588  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 started
+2019-04-19 19:28:14,588  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 started
+2019-04-19 19:28:14,588  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 started
+2019-04-19 19:28:14,805  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,798  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,791  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,784  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,778  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,771  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,755  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 19:28:14,811  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,318  INFO [pool-37-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,998  INFO [pool-25-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,995  INFO [pool-67-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,977  INFO [pool-44-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,976  INFO [pool-87-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,976  INFO [pool-78-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,965  INFO [pool-29-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,962  INFO [pool-47-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,961  INFO [pool-65-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,961  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,960  INFO [pool-31-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,960  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,958  INFO [pool-69-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,952  INFO [pool-71-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,947  INFO [pool-89-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,943  INFO [pool-16-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,869  INFO [pool-42-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,865  INFO [pool-94-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,863  INFO [pool-93-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,858  INFO [pool-40-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,855  INFO [pool-48-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,366  INFO [pool-58-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,343  INFO [pool-24-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,341  INFO [pool-11-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,339  INFO [pool-43-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,337  INFO [pool-80-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,333  INFO [pool-90-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,329  INFO [pool-76-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,329  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,325  INFO [pool-82-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,325  INFO [pool-88-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,325  INFO [pool-49-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,325  INFO [pool-72-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,318  INFO [pool-52-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:43,318  INFO [pool-91-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,228  INFO [pool-46-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,185  INFO [pool-20-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,718  INFO [pool-45-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,742  INFO [pool-68-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,736  INFO [pool-15-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,736  INFO [pool-73-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,724  INFO [pool-50-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,724  INFO [pool-85-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,723  INFO [pool-92-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,723  INFO [pool-84-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,719  INFO [pool-23-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,719  INFO [pool-81-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,719  INFO [pool-57-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:44,843  INFO [pool-36-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:45,529  INFO [pool-70-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:03:45,631  INFO [pool-64-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:25,940  INFO [pool-77-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM5 is being shutdown
+2019-04-19 20:04:26,519  INFO [pool-94-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM6 is being shutdown
+2019-04-19 20:04:26,503  INFO [pool-44-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM4 is being shutdown
+2019-04-19 20:04:26,496  INFO [pool-80-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM8 is being shutdown
+2019-04-19 20:04:26,489  INFO [pool-9-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM1 is being shutdown
+2019-04-19 20:04:26,648  INFO [pool-9-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,416  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 is being shutdown
+2019-04-19 20:04:26,411  INFO [pool-47-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM7 is being shutdown
+2019-04-19 20:04:26,404  INFO [pool-37-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM5 is being shutdown
+2019-04-19 20:04:26,402  INFO [pool-36-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM4 is being shutdown
+2019-04-19 20:04:26,397  INFO [pool-22-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM6 is being shutdown
+2019-04-19 20:04:26,396  INFO [pool-21-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM5 is being shutdown
+2019-04-19 20:04:26,386  INFO [pool-34-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM2 is being shutdown
+2019-04-19 20:04:26,380  INFO [pool-69-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM5 is being shutdown
+2019-04-19 20:04:26,379  INFO [pool-93-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM5 is being shutdown
+2019-04-19 20:04:26,378  INFO [pool-61-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM5 is being shutdown
+2019-04-19 20:04:26,376  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 is being shutdown
+2019-04-19 20:04:26,375  INFO [pool-12-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM4 is being shutdown
+2019-04-19 20:04:26,373  INFO [pool-15-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM7 is being shutdown
+2019-04-19 20:04:26,366  INFO [pool-13-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM5 is being shutdown
+2019-04-19 20:04:26,354  INFO [pool-70-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM6 is being shutdown
+2019-04-19 20:04:26,328  INFO [pool-46-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM6 is being shutdown
+2019-04-19 20:04:26,303  INFO [pool-86-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM6 is being shutdown
+2019-04-19 20:04:26,294  INFO [pool-68-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM4 is being shutdown
+2019-04-19 20:04:26,811  INFO [pool-68-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,269  INFO [pool-85-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM5 is being shutdown
+2019-04-19 20:04:26,246  INFO [pool-27-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM3 is being shutdown
+2019-04-19 20:04:26,160  INFO [pool-49-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM1 is being shutdown
+2019-04-19 20:04:26,158  INFO [pool-91-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM3 is being shutdown
+2019-04-19 20:04:26,845  INFO [pool-91-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,146  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 is being shutdown
+2019-04-19 20:04:26,140  INFO [pool-16-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM8 is being shutdown
+2019-04-19 20:04:26,130  INFO [pool-53-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM5 is being shutdown
+2019-04-19 20:04:26,106  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 is being shutdown
+2019-04-19 20:04:26,096  INFO [pool-32-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM8 is being shutdown
+2019-04-19 20:04:26,096  INFO [pool-64-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM8 is being shutdown
+2019-04-19 20:04:26,096  INFO [pool-11-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM3 is being shutdown
+2019-04-19 20:04:26,096  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 is being shutdown
+2019-04-19 20:04:26,096  INFO [pool-43-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM3 is being shutdown
+2019-04-19 20:04:26,095  INFO [pool-72-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM8 is being shutdown
+2019-04-19 20:04:26,083  INFO [pool-19-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM3 is being shutdown
+2019-04-19 20:04:26,034  INFO [pool-56-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM8 is being shutdown
+2019-04-19 20:04:26,019  INFO [pool-63-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM7 is being shutdown
+2019-04-19 20:04:26,016  INFO [pool-39-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM7 is being shutdown
+2019-04-19 20:04:25,998  INFO [pool-18-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM2 is being shutdown
+2019-04-19 20:04:25,996  INFO [pool-30-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM6 is being shutdown
+2019-04-19 20:04:25,991  INFO [pool-20-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM4 is being shutdown
+2019-04-19 20:04:25,988  INFO [pool-26-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM2 is being shutdown
+2019-04-19 20:04:25,985  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 is being shutdown
+2019-04-19 20:04:25,981  INFO [pool-92-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM4 is being shutdown
+2019-04-19 20:04:25,978  INFO [pool-96-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM8 is being shutdown
+2019-04-19 20:04:27,063  INFO [pool-96-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:25,977  INFO [pool-45-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM5 is being shutdown
+2019-04-19 20:04:25,967  INFO [pool-74-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM2 is being shutdown
+2019-04-19 20:04:25,964  INFO [pool-89-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM1 is being shutdown
+2019-04-19 20:04:25,959  INFO [pool-28-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM4 is being shutdown
+2019-04-19 20:04:25,954  INFO [pool-65-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM1 is being shutdown
+2019-04-19 20:04:25,952  INFO [pool-84-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM4 is being shutdown
+2019-04-19 20:04:25,940  INFO [pool-33-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM1 is being shutdown
+2019-04-19 20:04:27,133  INFO [pool-84-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,126  INFO [pool-65-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,119  INFO [pool-28-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,112  INFO [pool-89-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,098  INFO [pool-38-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM6 is being shutdown
+2019-04-19 20:04:27,097  INFO [pool-74-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,085  INFO [pool-66-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM2 is being shutdown
+2019-04-19 20:04:27,082  INFO [pool-45-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,056  INFO [pool-92-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,036  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,029  INFO [pool-26-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,022  INFO [pool-20-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,015  INFO [pool-30-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,008  INFO [pool-18-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,001  INFO [pool-39-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,997  INFO [pool-62-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM6 is being shutdown
+2019-04-19 20:04:26,997  INFO [pool-35-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM3 is being shutdown
+2019-04-19 20:04:26,994  INFO [pool-63-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,993  INFO [pool-55-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM7 is being shutdown
+2019-04-19 20:04:26,975  INFO [pool-88-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM8 is being shutdown
+2019-04-19 20:04:26,974  INFO [pool-56-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,969  INFO [pool-42-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM2 is being shutdown
+2019-04-19 20:04:26,967  INFO [pool-19-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,960  INFO [pool-72-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,957  INFO [pool-81-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM1 is being shutdown
+2019-04-19 20:04:26,953  INFO [pool-43-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,947  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,940  INFO [pool-11-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,935  INFO [pool-14-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM6 is being shutdown
+2019-04-19 20:04:26,933  INFO [pool-64-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,913  INFO [pool-32-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,907  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,900  INFO [pool-53-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,893  INFO [pool-16-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,872  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,838  INFO [pool-49-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,831  INFO [pool-27-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,824  INFO [pool-85-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,787  INFO [pool-86-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,780  INFO [pool-46-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,773  INFO [pool-70-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,766  INFO [pool-13-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,759  INFO [pool-15-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,752  INFO [pool-12-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,745  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,739  INFO [pool-61-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,716  INFO [pool-93-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,709  INFO [pool-69-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,703  INFO [pool-34-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,696  INFO [pool-21-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,689  INFO [pool-22-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,682  INFO [pool-36-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,675  INFO [pool-37-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,668  INFO [pool-47-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,661  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,641  INFO [pool-80-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,634  INFO [pool-44-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,619  INFO [pool-94-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:26,598  INFO [pool-77-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,392  INFO [pool-14-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,363  INFO [pool-41-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM1 is being shutdown
+2019-04-19 20:04:27,352  INFO [pool-81-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,332  INFO [pool-42-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,320  INFO [pool-67-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM3 is being shutdown
+2019-04-19 20:04:27,318  INFO [pool-88-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,297  INFO [pool-55-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,284  INFO [pool-35-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,277  INFO [pool-62-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,232  INFO [pool-83-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM3 is being shutdown
+2019-04-19 20:04:27,202  INFO [pool-66-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,194  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 is being shutdown
+2019-04-19 20:04:27,184  INFO [pool-38-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,152  INFO [pool-71-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM7 is being shutdown
+2019-04-19 20:04:27,140  INFO [pool-33-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,802  INFO [pool-71-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,788  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,774  INFO [pool-83-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,716  INFO [pool-67-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:04:27,696  INFO [pool-41-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:01,993  INFO [pool-23-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,652  INFO [pool-10-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,624  INFO [pool-82-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,556  INFO [pool-50-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,554  INFO [pool-75-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,370  INFO [pool-52-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,688  INFO [pool-60-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,731  INFO [pool-40-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:02,924  INFO [pool-78-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:03,372  INFO [pool-90-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:03,396  INFO [pool-58-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:03,425  INFO [pool-48-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:03,547  INFO [pool-25-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:03,778  INFO [pool-95-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:04,160  INFO [pool-3-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:04,329  INFO [pool-51-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:04,580  INFO [pool-59-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:04,706  INFO [pool-31-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:04,933  INFO [pool-57-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:05,005  INFO [pool-54-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:05,115  INFO [pool-87-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:05,286  INFO [pool-79-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:05,295  INFO [pool-76-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:05,331  INFO [pool-24-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:06,419  INFO [pool-73-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:06,433  INFO [pool-65-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:07,855  INFO [pool-17-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,469  INFO [pool-53-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM5 started
+2019-04-19 20:07:10,470  INFO [pool-61-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM5 started
+2019-04-19 20:07:10,470  INFO [pool-55-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM7 started
+2019-04-19 20:07:10,470  INFO [pool-80-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM8 started
+2019-04-19 20:07:10,470  INFO [pool-62-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM6 started
+2019-04-19 20:07:10,470  INFO [pool-56-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM8 started
+2019-04-19 20:07:10,470  INFO [pool-77-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM5 started
+2019-04-19 20:07:10,469  INFO [pool-64-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL08-VM8 started
+2019-04-19 20:07:10,469  INFO [pool-74-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL10-VM2 started
+2019-04-19 20:07:10,533  INFO [pool-64-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,525  INFO [pool-77-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,517  INFO [pool-56-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,509  INFO [pool-62-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,501  INFO [pool-80-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,493  INFO [pool-55-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,485  INFO [pool-61-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,477  INFO [pool-53-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:10,541  INFO [pool-74-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:11,900  INFO [pool-49-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL07-VM1 started
+2019-04-19 20:07:11,906  INFO [pool-49-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:12,619  INFO [pool-18-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM2 started
+2019-04-19 20:07:12,633  INFO [pool-18-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:12,907  INFO [pool-22-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM6 started
+2019-04-19 20:07:12,911  INFO [pool-20-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM4 started
+2019-04-19 20:07:12,927  INFO [pool-22-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:12,934  INFO [pool-20-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:13,354  INFO [pool-19-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM3 started
+2019-04-19 20:07:13,369  INFO [pool-19-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:13,443  INFO [pool-21-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL03-VM5 started
+2019-04-19 20:07:13,464  INFO [pool-21-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:14,359  INFO [pool-28-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM4 started
+2019-04-19 20:07:14,361  INFO [pool-27-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM3 started
+2019-04-19 20:07:14,375  INFO [pool-28-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:14,381  INFO [pool-27-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,073  INFO [pool-86-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM6 started
+2019-04-19 20:07:15,074  INFO [pool-85-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM5 started
+2019-04-19 20:07:15,074  INFO [pool-81-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM1 started
+2019-04-19 20:07:15,074  INFO [pool-84-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM4 started
+2019-04-19 20:07:15,113  INFO [pool-84-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,073  INFO [pool-88-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM8 started
+2019-04-19 20:07:15,106  INFO [pool-81-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,102  INFO [pool-32-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM8 started
+2019-04-19 20:07:15,102  INFO [pool-30-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM6 started
+2019-04-19 20:07:15,101  INFO [pool-83-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL11-VM3 started
+2019-04-19 20:07:15,101  INFO [pool-85-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,093  INFO [pool-86-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,154  INFO [pool-83-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,147  INFO [pool-30-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,140  INFO [pool-32-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,127  INFO [pool-88-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,206  INFO [pool-29-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM5 started
+2019-04-19 20:07:15,212  INFO [pool-29-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,221  INFO [pool-26-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL04-VM2 started
+2019-04-19 20:07:15,229  INFO [pool-26-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,559  INFO [pool-93-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM5 started
+2019-04-19 20:07:15,563  INFO [pool-89-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM1 started
+2019-04-19 20:07:15,561  INFO [pool-94-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM6 started
+2019-04-19 20:07:15,559  INFO [pool-92-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM4 started
+2019-04-19 20:07:15,609  INFO [pool-91-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL12-VM3 started
+2019-04-19 20:07:15,603  INFO [pool-94-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,597  INFO [pool-89-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,582  INFO [pool-93-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,617  INFO [pool-91-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:15,610  INFO [pool-92-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,122  INFO [pool-41-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM1 started
+2019-04-19 20:07:17,146  INFO [pool-41-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,257  INFO [pool-33-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM1 started
+2019-04-19 20:07:17,277  INFO [pool-33-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,839  INFO [pool-39-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM7 started
+2019-04-19 20:07:17,847  INFO [pool-34-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM2 started
+2019-04-19 20:07:17,839  INFO [pool-36-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM4 started
+2019-04-19 20:07:17,839  INFO [pool-37-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM5 started
+2019-04-19 20:07:17,839  INFO [pool-38-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL05-VM6 started
+2019-04-19 20:07:17,889  INFO [pool-38-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,881  INFO [pool-44-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM4 started
+2019-04-19 20:07:17,877  INFO [pool-37-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,870  INFO [pool-36-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,863  INFO [pool-34-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,857  INFO [pool-39-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,938  INFO [pool-47-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM7 started
+2019-04-19 20:07:17,949  INFO [pool-47-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,930  INFO [pool-43-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM3 started
+2019-04-19 20:07:17,918  INFO [pool-46-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM6 started
+2019-04-19 20:07:17,914  INFO [pool-44-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,907  INFO [pool-9-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM1 started
+2019-04-19 20:07:17,904  INFO [pool-13-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM5 started
+2019-04-19 20:07:17,902  INFO [pool-16-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM8 started
+2019-04-19 20:07:17,902  INFO [pool-14-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM6 started
+2019-04-19 20:07:17,895  INFO [pool-42-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM2 started
+2019-04-19 20:07:18,026  INFO [pool-14-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,999  INFO [pool-16-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,992  INFO [pool-13-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,985  INFO [pool-15-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM7 started
+2019-04-19 20:07:17,985  INFO [pool-9-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,984  INFO [pool-12-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL02-VM4 started
+2019-04-19 20:07:17,970  INFO [pool-46-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,964  INFO [pool-43-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:17,948  INFO [pool-45-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL06-VM5 started
+2019-04-19 20:07:18,083  INFO [pool-12-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,069  INFO [pool-15-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,040  INFO [pool-42-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,124  INFO [pool-45-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,279  INFO [pool-72-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM8 started
+2019-04-19 20:07:18,293  INFO [pool-68-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM4 started
+2019-04-19 20:07:18,282  INFO [pool-71-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM7 started
+2019-04-19 20:07:18,279  INFO [pool-67-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM3 started
+2019-04-19 20:07:18,329  INFO [pool-66-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM2 started
+2019-04-19 20:07:18,323  INFO [pool-69-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM5 started
+2019-04-19 20:07:18,316  INFO [pool-71-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,308  INFO [pool-68-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,301  INFO [pool-72-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,346  INFO [pool-70-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL09-VM6 started
+2019-04-19 20:07:18,344  INFO [pool-69-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,337  INFO [pool-66-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,329  INFO [pool-67-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,372  INFO [pool-70-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,447  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM6 started
+2019-04-19 20:07:18,448  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM4 started
+2019-04-19 20:07:18,447  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM7 started
+2019-04-19 20:07:18,476  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM5 started
+2019-04-19 20:07:18,473  INFO [pool-4-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,467  INFO [pool-6-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,487  INFO [pool-5-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,482  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM8 started
+2019-04-19 20:07:18,515  INFO [pool-8-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,480  INFO [pool-7-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,514  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM2 started
+2019-04-19 20:07:18,530  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - DskyDomain HAL01-VM1 started
+2019-04-19 20:07:18,537  INFO [pool-2-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
+2019-04-19 20:07:18,544  INFO [pool-1-thread-1] - Alocador.ComandChannel.CommandDispatcher 37 - Dsky
